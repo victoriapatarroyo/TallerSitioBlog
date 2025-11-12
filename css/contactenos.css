@@ -11,8 +11,12 @@ body {
     color: #214E34;
 }
 
+main{
+    margin:  50px;
+}
 main h1 {
     text-align: center;
+
 }
 
 
@@ -27,6 +31,7 @@ form {
     gap: 15px;
     max-width: 400px;
     margin: 0 auto;
+    
 }
 
 label {
@@ -145,4 +150,4 @@ footer div {
 
 footer div p {
     text-align: center;
-}
+} 
