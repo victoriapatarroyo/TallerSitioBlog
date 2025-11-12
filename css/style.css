@@ -32,26 +32,20 @@ header ul li a {
 
 footer {
     background-color:  #C9F17E;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     display: flex;    
-    justify-content:space-between;
+    justify-content: center;
     align-items: center;
 }
 
-.div-izquierdo, .div-derecho {
-    padding: 10px;    
-}
-
-footer ul {
+footer div {
     display: inline-block;
-    list-style-type: none;
-    margin: 0.5em auto;
-    padding: 20px;
-    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
 }
 
-footer ul li { 
-    display: flex;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    justify-content: center;
+footer div p {
+    text-align: center;
 }
