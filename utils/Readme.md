@@ -84,3 +84,70 @@ y a construir una vida con propósito.
 <blockquote>
 “Cada día es una nueva oportunidad para vivir mejor. Empieza hoy, con un solo paso.”
 </blockquote>
+
+
+<!-- Porque debemos vivir mejor -->
+Si el estrés hace que estés ansioso, tenso y preocupado, prueba la meditación. Dedicar aunque sea unos pocos minutos a la meditación puede ayudarte a recuperar la calma y paz interior.
+
+Cualquier persona puede meditar. Es sencillo y no es costoso. Además, no necesitas ningún equipo especial.
+
+Puedes practicar la meditación dondequiera que estés. Por ejemplo, mientras das un paseo, vas en autobús, esperas en el consultorio del médico o incluso en medio de una reunión de negocios.
+
+<!-- Sobre Méditación -->
+La meditación puede darte una sensación de calma, paz y equilibrio que puede mejorar tu bienestar emocional y tu salud general. También sirve para relajarte y afrontar el estrés, ya que te permite concentrar en algo que te calma. La meditación puede ayudarte a aprender a mantenerte centrado y a conservar la paz interior.
+
+Estos beneficios no finalizan cuando termina la sesión de meditación. La meditación puede ayudarte a pasar el día de manera más calmada y a controlar los síntomas de algunas enfermedades.
+
+Meditación y bienestar físico y emocional
+Cuando meditas, puedes despejar la sobrecarga de información que se acumula todos los días y contribuye a tu estrés.
+
+Los beneficios emocionales y físicos de la meditación incluyen los siguientes:
+
+Brindarte una nueva perspectiva sobre las cosas que te causan estrés
+Adquirir habilidades para controlar el estrés
+Hacer que tengas más autoconciencia
+Enfocarte en el presente
+Reducir los pensamientos negativos
+Ayudar a que seas más creativo
+Ayudar a que seas más paciente
+Disminuir la frecuencia cardíaca en reposo
+Disminuir la presión arterial en reposo
+Ayudar a dormir mejor
+Meditación y enfermedad
+La meditación también podría ser útil cuando tienes una enfermedad, en especial, una afección que el estrés empeora.
+
+Muchas investigaciones muestran que la meditación es buena para la salud. Sin embargo, algunos expertos creen que no hay suficientes investigaciones que demuestren que la meditación es útil.
+
+Por ello, algunos investigadores sugieren que la meditación puede ayudar a controlar los síntomas de afecciones como:
+
+Ansiedad
+Asma
+Cáncer
+Dolor crónico
+Depresión
+Enfermedad cardíaca
+Presión arterial alta
+Síndrome de colon irritable
+Problemas de sueño
+Cefaleas tensionales
+No dejes de hablar con tu profesional de atención médica sobre las ventajas y las desventajas de practicar la meditación si tienes algunas de estas enfermedades u otras afecciones. A veces, la meditación podría empeorar los síntomas vinculados con algunas afecciones de salud mental.
+
+La meditación no reemplaza el tratamiento médico. Sin embargo, puede ser útil añadirla a otros tratamientos.
+
+Tipos de meditación
+Meditación es un término general para las muchas maneras de lograr un estado de relajación. Existen muchos tipos de meditación y maneras de relajarse que aplican partes de la meditación. Todas comparten el mismo objetivo de lograr la paz interior.
+
+A continuación, se mencionan algunas formas de meditar:
+
+Meditación guiada. A veces se denomina visualización dirigida o visualización. Con este método de meditación, creas imágenes mentales de lugares, objetos o personas para ayudarte a relajar.
+
+Puedes intentar utilizar todos los sentidos que puedas. Esto incluye visualizar cosas que puedes oler, ver, escuchar y sentir. Un guía o un maestro puede guiarte a lo largo de este proceso.
+
+Meditación con mantra. En este tipo de meditación, repites una palabra, un pensamiento o una frase calmante para evitar pensamientos no deseados.
+Meditación con atención plena. Este tipo de meditación se basa en estar consciente de la realidad. Significa tener más consciencia del presente.
+
+En la meditación de atención plena, diriges tu atención a algo, como el flujo de tu respiración. Puedes observar tus pensamientos y sentimientos, pero debes dejarlos pasar sin emitir ningún juicio.
+
+Qi gong. La mayoría de las veces, esta práctica combina la meditación, la relajación, el movimiento y los ejercicios respiratorios para recuperar y mantener el equilibrio. El qi gong es parte de la medicina china.
+Taichí. Es un tipo de entrenamiento en un suave arte marcial chino. El taichí consiste en hacer una serie de posturas o movimientos de forma lenta y grácil. Además, se acompañan los movimientos con respiraciones profundas.
+Yoga. Consiste en hacer una serie de posturas con la respiración controlada. Esto ayuda a que tu cuerpo sea más flexible y a calmar tu mente. Para hacer las posturas, necesitas equilibrio y concentración. Esto te permite enfocarte menos en tu día ajetreado y más en el momento.
