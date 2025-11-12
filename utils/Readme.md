@@ -151,3 +151,5 @@ En la meditación de atención plena, diriges tu atención a algo, como el flujo
 Qi gong. La mayoría de las veces, esta práctica combina la meditación, la relajación, el movimiento y los ejercicios respiratorios para recuperar y mantener el equilibrio. El qi gong es parte de la medicina china.
 Taichí. Es un tipo de entrenamiento en un suave arte marcial chino. El taichí consiste en hacer una serie de posturas o movimientos de forma lenta y grácil. Además, se acompañan los movimientos con respiraciones profundas.
 Yoga. Consiste en hacer una serie de posturas con la respiración controlada. Esto ayuda a que tu cuerpo sea más flexible y a calmar tu mente. Para hacer las posturas, necesitas equilibrio y concentración. Esto te permite enfocarte menos en tu día ajetreado y más en el momento.
+
+<!--  -->
